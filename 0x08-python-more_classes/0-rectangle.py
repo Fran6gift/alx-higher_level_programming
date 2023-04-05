@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+Rectangle management module
+"""
+
+
 class Rectangle:
-    """variables and methods"""
+    """define variables and methods"""
     pass
